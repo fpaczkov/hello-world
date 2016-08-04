@@ -9,7 +9,7 @@
 <body>
 	<% java.util.Date d = new java.util.Date(); %>
 	<h1>
-	Today's date is <%= d.toString() %> and this jsp page worked!
+	Today's date is <%= d.toString() %> and this jsp PAGE worked!
 	</h1>
 </body>
 </html>
